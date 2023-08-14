@@ -3,6 +3,6 @@ class Hello{
     {
         System.out.println("Hello World");
         System.out.println("I'm Harshit");
-        System.out.println("Bye");
+    
     }
 }
